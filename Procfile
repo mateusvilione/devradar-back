@@ -1,1 +1,1 @@
-web: yarn start
+web: yarn nodemon src/index.js
